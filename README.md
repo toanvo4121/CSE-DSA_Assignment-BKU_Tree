@@ -12,7 +12,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 <br />
 <img src="https://img.shields.io/github/stars/toanvo4121/CSE-DSA_Assignment-BKU_Tree?color=white&logo=github">&emsp;<img src="https://img.shields.io/github/last-commit/toanvo4121/CSE-DSA_Assignment-BKU_Tree?color=blue">
 <br />
-<img src="https://img.shields.io/github/languages/top/toanvo4121/CSE-DSA_Assignment-BKU_Tree?color=yellow&logo=c&logoColor=yellow">&emsp;<img src="https://img.shields.io/github/repo-size/toanvo4121/CSE-DSA_Assignment-BKU_Tree?color=orange&label=size&logo=git&logoColor=orange">
+<img src="https://img.shields.io/github/size/toanvo4121/CSE-DSA_Assignment-BKU_Tree/BKUTree.cpp?color=orange&label=file size&logo=git&logoColor=orange">
 <br />
 
 **Data Structures & Algorithms / Semester 201**
